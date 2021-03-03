@@ -1,2 +1,7 @@
 # nannou-app-template
-a template project for nannou apps
+This is a template project for nannou apps. It is intended to be used with [cargo-generate](https://github.com/cargo-generate/cargo-generate)
+
+Create new project: `cargo generate --git https://github.com/tpltnt/nannou-app-template`
+
+Install cargo-generate: `cargo install cargo-generate`
+
